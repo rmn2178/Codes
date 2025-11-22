@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7dcc332-611a-46e6-8b01-55033dafe87e" name="Changes" comment="feat: new codes in matplotlib">
+      <change afterPath="$PROJECT_DIR$/Seaborn/code1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seaborn/code2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rmn2178&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rmn2178/Codes&quot;,
+    &quot;accountId&quot;: &quot;a73647a4-f1a1-4849-9570-866f6284d93a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DSA/linear_search.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ml_codes/per_capita_income/code.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="359M5a1vQsRcbRhEFMUho6hyGV4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bubble_sort.executor": "Run",
+    "Python.cdsjbhfwijag.executor": "Run",
+    "Python.code.executor": "Run",
+    "Python.code1.executor": "Run",
+    "Python.code2.executor": "Run",
+    "Python.code3.executor": "Run",
+    "Python.code4.executor": "Run",
+    "Python.code5.executor": "Run",
+    "Python.code6.executor": "Run",
+    "Python.code7.executor": "Run",
+    "Python.code8.executor": "Run",
+    "Python.code9.executor": "Run",
+    "Python.codex.executor": "Run",
+    "Python.coding.executor": "Run",
+    "Python.csv_code.executor": "Run",
+    "Python.data_separate.executor": "Run",
+    "Python.decision_tree_code.executor": "Run",
+    "Python.gradient_descent.executor": "Run",
+    "Python.linear_search.executor": "Run",
+    "Python.log_reg_code.executor": "Run",
+    "Python.log_reg_code_x.executor": "Run",
+    "Python.number_1.executor": "Run",
+    "Python.save_model.executor": "Run",
+    "Python.supp_vect_mach.executor": "Run",
+    "Python.test_x_train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "G:/Codes/ml_codes/basics",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Codes\ml_codes\basics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Codes\ml_codes" />
+      <recent name="G:\Codes\ml_codes\basics\logistic_regression" />
+      <recent name="G:\Codes\ml_codes\basics" />
+      <recent name="G:\Codes\pandas_basics" />
+      <recent name="G:\Codes\DSA\searching_code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7dcc332-611a-46e6-8b01-55033dafe87e" name="Changes" comment="" />
+      <created>1762517653116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762517653116</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: added the csv">
+      <option name="closed" value="true" />
+      <created>1762951479295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762951479295</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: added the csv">
+      <option name="closed" value="true" />
+      <created>1762951687287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762951687288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added a dsa">
+      <option name="closed" value="true" />
+      <created>1763045981563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763045981563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: added a dsa">
+      <option name="closed" value="true" />
+      <created>1763047065008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763047065008</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: new directory searching_code">
+      <option name="closed" value="true" />
+      <created>1763047519269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763047519269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: new code in ml_basics">
+      <option name="closed" value="true" />
+      <created>1763267206315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763267206315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: new code in ml_basics">
+      <option name="closed" value="true" />
+      <created>1763267880292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763267880292</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: new code in panda_basics">
+      <option name="closed" value="true" />
+      <created>1763273426413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763273426413</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: new code in ml_codes">
+      <option name="closed" value="true" />
+      <created>1763276070771</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763276070771</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: new code in ml_codes">
+      <option name="closed" value="true" />
+      <created>1763288741816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763288741816</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: new code in DSA">
+      <option name="closed" value="true" />
+      <created>1763289531576</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763289531576</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: new code in ml">
+      <option name="closed" value="true" />
+      <created>1763385217719</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763385217719</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: new code in tree">
+      <option name="closed" value="true" />
+      <created>1763391259382</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763391259382</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: new code in l repo">
+      <option name="closed" value="true" />
+      <created>1763396451437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763396451437</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: new code in l leet_code">
+      <option name="closed" value="true" />
+      <created>1763477572340</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763477572340</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: new codes in matplotlib">
+      <option name="closed" value="true" />
+      <created>1763808340408</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1763808340408</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added the csv" />
+    <MESSAGE value="feat: added a dsa" />
+    <MESSAGE value="feat: new directory searching_code" />
+    <MESSAGE value="feat: new code in ml_basics" />
+    <MESSAGE value="feat: new code in panda_basics" />
+    <MESSAGE value="feat: new code in ml_codes" />
+    <MESSAGE value="feat: new code in DSA" />
+    <MESSAGE value="feat: new code in ml" />
+    <MESSAGE value="feat: new code in tree" />
+    <MESSAGE value="feat: new code in l repo" />
+    <MESSAGE value="feat: new code in l leet_code" />
+    <MESSAGE value="feat: new codes in matplotlib" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: new codes in matplotlib" />
+  </component>
+</project>
